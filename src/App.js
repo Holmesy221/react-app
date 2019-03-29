@@ -5,7 +5,7 @@ import './styles/styles'
 class App extends Component {
     render() {
         return <div>
-            <Title title = {'PhotoWall'} />
+            <Title title = {'PhotoWal'} />
         </div>
     }
 }
