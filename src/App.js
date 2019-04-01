@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import Title from './components/Title'
-import './styles/styles'
 import PhotoWall from './components/Photowall'
 
 
